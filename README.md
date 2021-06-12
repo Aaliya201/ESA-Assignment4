@@ -5,9 +5,9 @@ Download the code into a zip file and then follow the following commands to run 
 
 ## To Run the code
 
-1. Change the MongoDb URL in the config/db.js file
+1. Change the MongoDb URL in the``` config/db.js``` file
 
-2. Initialize * *package.json file and install dependencies
+2. Initialize ```package.json``` file and install dependencies
 
 ## Run the following commands 
 
