@@ -1,5 +1,5 @@
 # ESA-Assignement4
-Microservice SMS API
+## Microservice SMS API
 
 Download the code into a zip file and then follow the following commands to run the code
 
