@@ -11,11 +11,11 @@ To Run the code
 
 Run the following commands 
 
-```> npm init```
-```> npm install mongoose express body-parser```
-npm npm install dotenv
-npm install --save express-rate-limit
-npm install memory-cache --save
+-``` npm init```
+-``` npm install mongoose express body-parser```
+- npm install dotenv
+-npm install --save express-rate-limit
+-npm install memory-cache --save
 
 3. Running the server 
  
