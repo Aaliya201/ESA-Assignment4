@@ -8,7 +8,7 @@ To Run the code
 1. Change the MongoDb URL in the config/db.js file
 
 2. Initialize package.json file and install dependencies
-
+'''
 Run the following commands 
 npm init
 npm install mongoose express body-parser
